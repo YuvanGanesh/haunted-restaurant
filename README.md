@@ -10,7 +10,7 @@ A spooky and creative website for a fictional haunted restaurant, designed using
 - HTML and CSS for integration and hosting
 
 ## Demo
-View it live here: [Hosted Link]()
+View it live here: [Hosted Link](https://yuvanganesh.github.io/haunted-restaurant/)
 
 ## How to Use
 1. Access the hosted website through the link provided above.
